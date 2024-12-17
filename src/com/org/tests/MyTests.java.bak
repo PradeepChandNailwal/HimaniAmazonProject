@@ -1,0 +1,15 @@
+package com.org.tests;
+
+public class MyTests {
+
+	public static void main(String[] args) {
+<<<<<<< HEAD
+		System.out.println("Pradeep Nailwal Yes");
+
+=======
+		System.out.println("Pradeep Nailwal JI");
+System.out.println("Himani Jain");
+>>>>>>> c4536124ddf45a423591feef76904f0f857e6197
+	}
+
+}
